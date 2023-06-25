@@ -1,1 +1,15 @@
-# CS-250-Sprint
+# CS-250 Final Project
+
+Module Eight Journal
+
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+   I believe this skill will take time to figure out and fully master. With demands of products growing, needing communication to see what the consumers want and creating accurate User Stories will be something that will be easy to fully figure out in due time and make or break a project, highlighting what's wanted and what isn't. User stories help with streamlining client needs into asking "Who is this change for", "What does the user aim to accomplish", and "Why is this change needed?"
+
+2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+   After learning agile, I feel that I have been given the knowledge and equipped with the necessary tools to further understanding how project management works in various situations with various modifiers on the project. As for development, I believe it has to be in a profitable flow, having ideas and production go hand in hand, allowing creativity and adaptibility while being produtive and getting the product out on time. The development team are the backbone and the main driving force on projects, allowing them creativity and an end goal can help with production time and value, creating a good product in time. I believe the uses of software tools like Jira and Github will be a great way of storing builds and exchanging them with different team members, ensuring a flow that can't be broken. With daily stand up meetings, I'll try different methods in this area as I feel I haven't fully found a way that I like, having me opting to allow people to speak what needs to be done and what they have done. Agile is basically needed in bigger term projects as development will change along with the product, allowing flexibility and communication among the team, creating a product that will truly satisfy its customers.
+
+   3. What does it mean to be a good team member in software development?
+  
+        With teams, you don't know the type of personalities people have and their workstyles until you get to know them. With this in mind, figuring out how everyone functions in the work force and getting communication and trust flowing is a definite need to being a good team member. Having equality and allowing open minds in the project can lead to success if everyone's on board and openly speaking about their thoughts on the project. With Agile being adaptable, the workers will have to be adaptable as well, with having to plan for the change and being able to quickly allow the change into production times creates less room for stalling and more room for actual development. These are what I believe to be some of the traits that are needed to be a good team member. One that trusts their co-workers, knows of their workstyles and personalities and works with them on it, open mind on the projectm and the ability to adapt quickly. 
